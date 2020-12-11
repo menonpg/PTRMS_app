@@ -9,6 +9,12 @@ import base64
 from io import BytesIO
 import pandas as pd
 
+
+
+import jdk
+
+jdk.install('11')
+
 def to_excel(df):
     output = BytesIO()
     writer = pd.ExcelWriter(output, engine='xlsxwriter')
