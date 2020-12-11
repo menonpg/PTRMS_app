@@ -1,3 +1,4 @@
 ca-certificates-java
+default-jdk-headless
 default-jdk
 default-jre
