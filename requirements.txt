@@ -7,3 +7,4 @@ python-multipart
 uvicorn
 streamlit
 https://h2o-release.s3.amazonaws.com/h2o/rel-zahradnik/1/Python/h2o-3.30.0.1-py2.py3-none-any.whl
+install-jdk
