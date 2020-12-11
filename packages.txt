@@ -1,9 +1,5 @@
 ca-certificates-java
-default-jdk-headless
-openjdk-11-jre-headless:amd64
 openjdk-11-jre:amd64
 openjdk-11-jdk-headless:amd64
 default-jre
-default-jdk-headless
-openjdk-11-jdk:amd64
 default-jdk
