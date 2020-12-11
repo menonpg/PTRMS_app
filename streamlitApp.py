@@ -28,9 +28,8 @@ def get_table_download_link(df):
 
 
 MODELS = {
-    "Best of Family Ensemble 01": "StackedEnsemble_BestOfFamily_AutoML_20201201_220644",
-    "Best of Family Ensemble 02": "StackedEnsemble_BestOfFamily_AutoML_20201201_224937",
-    "Complete Ensemble": "StackedEnsemble_AllModels_AutoML_20201201_220644",
+    "Best of Family Ensemble 01": "BOF_01_Dec2_2020",
+    "Best of Family Ensemble 02": "BOF_02_Dec2_2020"
 }
 
 # https://discuss.streamlit.io/t/version-0-64-0-deprecation-warning-for-st-file-uploader-decoding/4465
